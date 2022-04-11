@@ -7,5 +7,7 @@ int main()
 	std::cin >> a;
 	std::cout << a << std::endl;
 
+	std::cout << "Hi, GitHuB" << std::endl;
+
 	return 0;
 }
